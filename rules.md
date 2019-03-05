@@ -147,6 +147,8 @@ To become a regular member:
 1. Meet all the [Qualifications].
 2. Propose or make a change to the [Regular Members List] adding your name and contact information.
 
+If the group has [removed you as a regular member][Remove a Regular Member] before, you may not become a regular member again without [Supermajority Approval].
+
 ## Become a Special Member
 
 To become a special member:
@@ -165,6 +167,13 @@ To resign as a special member:
 
 1. Propose or make a change to [Special Members List] removing your name and contact information.
 2. Propose or make a change to [Regular Members List] adding your name and contact information.
+
+## Remove a Regular Member
+
+To remove a regular member:
+
+1. [Take a Vote] and secure [Supermajority Approval] to remove the regular member.
+2. Propose or make a change to [Regular Members List] removing the special member's name and contact information.
 
 ## Remove a Special Member
 
