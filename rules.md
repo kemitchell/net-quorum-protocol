@@ -85,6 +85,8 @@ For example, for a fan site:
 
 ## Records Location
 
+[Records Location]: #records-location
+
 Where will group members keep voting records?
 
 For example:
@@ -175,6 +177,8 @@ To resign as a special member:
 
 ## Remove a Regular Member
 
+[Remove a Regular Member]: #remove-a-regular-member
+
 To remove a regular member:
 
 1. [Take a Vote] and secure [Supermajority Approval] to remove the regular member.
@@ -199,7 +203,7 @@ To update your contact information, propose or make a change to [Special Members
 
 [Take a Vote]: #take-a-vote
 
-To take a vote, [Send Proposals], [Follow Up], [Record Responses], and [Announce the Result] on [Schedule].
+To take a vote, [Send Proposals], [Follow Up], [Record Messages], and [Announce Approval], all on [Schedule].
 
 ### Schedule
 
@@ -215,7 +219,7 @@ Counting from the start date forward, in order:
 |-|-|
 |7 days|[Send Proposals].|
 |14 days|[Follow Up].|
-|21 days|[Record All Messages] and [Announce Approval] if the group approved.|
+|21 days|[Record Messages] and [Announce Approval] if the group approved.|
 
 ### Send Proposals
 
@@ -223,21 +227,21 @@ Counting from the start date forward, in order:
 
 Send every member a message on this template using the [Primary Communication Method] for the member in the [Member Lists]:
 
-> Subject: [Group Name] Net Quorum Proposal
+> Subject: _[Group Name]_ Net Quorum Proposal
 >
-> This is a proposal under the Net Quorum rules for [Group Name] [Group URL] to: [action].
+> This is a proposal under the Net Quorum rules for [Group Name] [Group URL] to: _action_.
 >
-> Approval Needed: [[Majority Approval] or [Supermajority Approval] or [Bottom-Heavy Approval] or [Top-Heavy Approval]]
+> Approval Needed: _[Majority Approval] or [Supermajority Approval] or [Bottom-Heavy Approval] or [Top-Heavy Approval]_
 >
 > If you approve, please respond to this e-mail as soon as possible with the following message:
 >
-> > I accept your proposal to [action].
+> > I accept your proposal to _action_.
 > >
 > > I give you permission to share this message.
 >
 > If you do not approve, please respond to this e-mail as soon as possible with the following message:
 >
-> > I reject your proposal to [action].
+> > I reject your proposal to _action_.
 > >
 > > I give you permission to share this message.
 
@@ -247,11 +251,11 @@ Send every member a message on this template using the [Primary Communication Me
 
 Send every member that did not respond to accept or reject the proposal another copy of the proposal using the [Backup Communication Method] for the member in the [Member Lists].
 
-### Record All Messages
+### Record Messages
 
-[Record All Messages]: #record-messages
+[Record Messages]: #record-messages
 
-Share copies of all messages sent under [Send Proposals], [Follow Up], and [Announce an Approval], as well as any member responses to those messages, in the [Records Location].
+Share copies of all messages sent under [Send Proposals], [Follow Up], and [Announce Approval], as well as any member responses to those messages, in the [Records Location].
 
 ### Announce Approval
 
@@ -261,35 +265,35 @@ Count votes to see if you received the approval needed.  Do not count responses 
 
 If you received the approval needed, send every member a message on this template using the [Primary Communication Method] for the member in the [Member Lists]:
 
-> Subject: [Group Name] Net Quorum Approval
+> Subject: _[Group Name]_ Net Quorum Approval
 >
-> This is an announcement of successful vote under the Net Quorum rules for [Group Name] [Group URL] to [action].
+> This is an announcement of successful vote under the Net Quorum rules for _[Group Name]_ _[Group URL]_ to _action_.
 >
-> You can access the records for the vote here: [url]
+> You can access the records for the vote here: _URL_
 >
 > Special Members Approving:
 >
-> [List special members who approved, and on what dates.]
+> _List special members who approved, and on what dates._
 >
 > Special Members Rejecting:
 >
-> [List special members who rejected, and on what dates.]
+> _List special members who rejected, and on what dates._
 >
 > Special Members Not Responding:
 >
-> [List special members who did not respond, the Primary Contact Method used for them, and the Backup Contact Method used for them.]
+> _List special members who did not respond, the Primary Contact Method used for them, and the Backup Contact Method used for them._
 >
 > Regular Members Approving:
 >
-> [List special members who approved, and on what dates.]
+> _List special members who approved, and on what dates._
 >
 > Regular Members Rejecting:
 >
-> [List special members who rejected, and on what dates.]
+> _List special members who rejected, and on what dates._
 >
 > Regular Members Not Responding:
 >
-> [List special members who did not respond, the Primary Contact Method used for them, and the Backup Contact Method used for them.]
+> _List special members who did not respond, the Primary Contact Method used for them, and the Backup Contact Method used for them._
 
 ## Change These Rules
 
