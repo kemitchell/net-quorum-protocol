@@ -53,9 +53,9 @@ For example, for a software project:
 
 > Anyone who contributes at least one original patch accepted into an official release may become a regular member.
 
-## Primary Communication Method
+## Primary Contact Method
 
-[Primary Communication Method]: #primary-communication-method
+[Primary Contact Method]: #primary-contact-method
 
 What primary means of communication will the group use?
 
@@ -65,9 +65,9 @@ For example, for a forum:
 
 Ideally, the primary means of communication should be the same way that members of the group work together online.
 
-## Backup Communication Method
+## Backup Contact Method
 
-[Backup Communication Method]: #backup-communication-method
+[Backup Contact Method]: #backup-contact-method
 
 What backup means of communication, if any, will the group use?
 
@@ -225,7 +225,7 @@ Counting from the start date forward, in order:
 
 [Send Proposals]: #send-proposals
 
-Send every member a message on this template using the [Primary Communication Method] for the member in the [Member Lists]:
+Send every member a message on this template using the [Primary Contact Method] for the member in the [Member Lists]:
 
 > Subject: _[Group Name]_ Net Quorum Proposal
 >
@@ -249,7 +249,7 @@ Send every member a message on this template using the [Primary Communication Me
 
 [Follow Up]: #follow-up
 
-Send every member that did not respond to accept or reject the proposal another copy of the proposal using the [Backup Communication Method] for the member in the [Member Lists].
+Send every member that did not respond to accept or reject the proposal another copy of the proposal using the [Backup Contact Method] for the member in the [Member Lists].
 
 ### Record Messages
 
@@ -263,7 +263,7 @@ Share copies of all messages sent under [Send Proposals], [Follow Up], and [Anno
 
 Count votes to see if you received the approval needed.  Do not count responses to proposal messages that got the necessary approval wrong, or that differed from messages sent to other members.
 
-If you received the approval needed, send every member a message on this template using the [Primary Communication Method] for the member in the [Member Lists]:
+If you received the approval needed, send every member a message on this template using the [Primary Contact Method] for the member in the [Member Lists]:
 
 > Subject: _[Group Name]_ Net Quorum Approval
 >
@@ -281,7 +281,7 @@ If you received the approval needed, send every member a message on this templat
 >
 > Special Members Not Responding:
 >
-> _List special members who did not respond, the [Primary Communication Method] used for them, and the [Backup Communication Method] used for them._
+> _List special members who did not respond, the [Primary Contact Method] used for them, and the [Backup Contact Method] used for them._
 >
 > Regular Members Approving:
 >
@@ -293,7 +293,7 @@ If you received the approval needed, send every member a message on this templat
 >
 > Regular Members Not Responding:
 >
-> _List special members who did not respond, the [Primary Communication Method] used for them, and the [Backup Communication Method] used for them._
+> _List special members who did not respond, the [Primary Contact Method] used for them, and the [Backup Contact Method] used for them._
 
 ## Change These Rules
 
