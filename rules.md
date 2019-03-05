@@ -206,7 +206,7 @@ Counting from the start date forward, in order:
 | Deadline | Task                                                         |
 | -------- | ------------------------------------------------------------ |
 | 7 days   | [Send Proposals].                                            |
-| 14 days  | [Follow Up ].                                                |
+| 14 days  | [Follow Up].                                                |
 | 21 days  | [Record All Messages] and [Announce Approval] if the group approved. |
 
 ### Send Proposals
