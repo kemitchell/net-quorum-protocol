@@ -219,7 +219,7 @@ Send every member a message on this template using the [Primary Communication Me
 >
 > This is a proposal under the Net Quorum rules for [Group Name] [Group URL] to: [action].
 >
-> Approval Needed: ["Majority" or "Supermajority" or "Bottom-Heavy" or "Top-Heavy"]
+> Approval Needed: [[Majority Approval] or [Supermajority Approval] or [Bottom-Heavy Approval] or [Top-Heavy Approval]]
 >
 > If you approve, please respond to this e-mail as soon as possible with the following message:
 >
