@@ -235,7 +235,7 @@ Send every member a message on this template using the [Primary Communication Me
 
 ### Follow Up
 
-[Follow Up]: #follow-up-
+[Follow Up]: #follow-up
 
 Send every member that did not respond to accept or reject the proposal another copy of the proposal using the [Backup Communication Method] for the member in the [Member Lists].
 
