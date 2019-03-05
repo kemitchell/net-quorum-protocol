@@ -281,7 +281,7 @@ If you received the approval needed, send every member a message on this templat
 >
 > Special Members Not Responding:
 >
-> _List special members who did not respond, the Primary Contact Method used for them, and the Backup Contact Method used for them._
+> _List special members who did not respond, the [Primary Communication Method] used for them, and the [Backup Communication Method] used for them._
 >
 > Regular Members Approving:
 >
@@ -293,7 +293,7 @@ If you received the approval needed, send every member a message on this templat
 >
 > Regular Members Not Responding:
 >
-> _List special members who did not respond, the Primary Contact Method used for them, and the Backup Contact Method used for them._
+> _List special members who did not respond, the [Primary Communication Method] used for them, and the [Backup Communication Method] used for them._
 
 ## Change These Rules
 
