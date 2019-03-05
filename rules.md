@@ -16,6 +16,7 @@ Any member can take a vote.  Voting requires reaching out to members using their
 To use Net Quorum, an online group needs:
 
 1.  a way to adopt these rules, along with [Customizations] and initial [Member Lists], for decisions going forward
+
 2.  a common place to post and edit the group's copy of these rules, [Customizations], [Member Lists], and voting records
 
 # Customizations
@@ -98,17 +99,17 @@ For example:
 
 [Special Members List]: #special-members-list
 
-| Name     | Primary  | Backup              |
-| -------- | -------- | ------------------- |
-| Jane Doe | @janedoe | janedoe@example.com |
+|Name|Primary|Backup|
+|-|-|-|
+|Jane Doe|@janedoe|janedoe@example.com|
 
 ## Regular Members List
 
 [Regular Members List]: #regular-members-list
 
-| Name     | Primary  | Backup              |
-| -------- | -------- | ------------------- |
-| John Doe | @johndoe | johndoe@example.com |
+|Name|Primary|Backup|
+|-|-|-|
+|John Doe|@johndoe|johndoe@example.com|
 
 # Approval Standards
 
@@ -145,6 +146,7 @@ A bottom-heavy approval requires approval from a majority of all responding regu
 To become a regular member:
 
 1. Meet all the [Qualifications].
+
 2. Propose or make a change to the [Regular Members List] adding your name and contact information.
 
 If the group has [removed you as a regular member][Remove a Regular Member] before, you may not become a regular member again without [Supermajority Approval].
@@ -154,7 +156,9 @@ If the group has [removed you as a regular member][Remove a Regular Member] befo
 To become a special member:
 
 1. Become a regular member.
+
 2. [Take a Vote] and secure [Top-Heavy Approval] to admit you as a special member.
+
 3. Propose or make a change to the [Special Members List] adding your name and contact information.
 
 ## Resign as a Regular Member
@@ -166,6 +170,7 @@ To resign as a regular member, propose or make a change to [Regular Members List
 To resign as a special member:
 
 1. Propose or make a change to [Special Members List] removing your name and contact information.
+
 2. Propose or make a change to [Regular Members List] adding your name and contact information.
 
 ## Remove a Regular Member
@@ -173,6 +178,7 @@ To resign as a special member:
 To remove a regular member:
 
 1. [Take a Vote] and secure [Supermajority Approval] to remove the regular member.
+
 2. Propose or make a change to [Regular Members List] removing the special member's name and contact information.
 
 ## Remove a Special Member
@@ -180,7 +186,9 @@ To remove a regular member:
 To remove a special member:
 
 1. [Take a Vote] and secure [Bottom-Heavy Approval] to remove the special member.
+
 2. Propose or make a change to [Special Members List] removing the special member's name and contact information.
+
 3. Propose or make a change to [Regular Members List] adding the special member's name and contact information.
 
 ## Update Your Contact Information
@@ -203,11 +211,11 @@ If these rules change while a vote is being taken, the rules that apply to the v
 
 Counting from the start date forward, in order:
 
-| Deadline | Task                                                         |
-| -------- | ------------------------------------------------------------ |
-| 7 days   | [Send Proposals].                                            |
-| 14 days  | [Follow Up].                                                |
-| 21 days  | [Record All Messages] and [Announce Approval] if the group approved. |
+|Deadline|Task|
+|-|-|
+|7 days|[Send Proposals].|
+|14 days|[Follow Up].|
+|21 days|[Record All Messages] and [Announce Approval] if the group approved.|
 
 ### Send Proposals
 
